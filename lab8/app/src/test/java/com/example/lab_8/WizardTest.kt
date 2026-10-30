@@ -58,6 +58,7 @@ class WizardTest {
         evilWizard.train()
         assertEquals(10, evilWizard.spellPower)
     }
+
 }
 
 }
